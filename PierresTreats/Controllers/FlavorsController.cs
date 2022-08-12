@@ -22,6 +22,7 @@ namespace PierresTreats.Controllers
       _db = db;
     }
 
+    // [AllowAnonymous]
     public async Task<ActionResult> Index()
     {
         var userId = this.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
