@@ -1,0 +1,8 @@
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.csproj.AssemblyReference.cache
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.AssemblyInfoInputs.cache
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.AssemblyInfo.cs
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.csproj.CoreCompileInputs.cache
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.RazorAssemblyInfo.cache
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\PierresTreats.RazorAssemblyInfo.cs
