@@ -50,7 +50,6 @@ C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Raz
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\TreatFlavor\Index.cshtml.g.cs
-C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Treats\AddRecipe.cshtml.g.cs
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Treats\Create.cshtml.g.cs
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Treats\Delete.cshtml.g.cs
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Treats\Details.cshtml.g.cs
@@ -63,3 +62,4 @@ C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Raz
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Flavors\Edit.cshtml.g.cs
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Flavors\Index.cshtml.g.cs
 C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Flavors\ShowSearch.cshtml.g.cs
+C:\Users\msash\Desktop\PierresTreats.Solution\PierresTreats\obj\Debug\net5.0\Razor\Views\Treats\AddFlavor.cshtml.g.cs
