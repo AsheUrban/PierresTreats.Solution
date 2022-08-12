@@ -22,7 +22,6 @@ namespace PierresTreats.Controllers
       _db = db;
     }
 
-    // [AllowAnonymous]
     public async Task<ActionResult> Index()
     {
         var userId = this.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
@@ -31,6 +30,7 @@ namespace PierresTreats.Controllers
         return View(userFlavors);
     }
 
+    // [Authorize]
     public ActionResult Create()
     {
       ViewBag.TreatId = new SelectList(_db.Treats, "TreatId", "Name");
@@ -62,6 +62,7 @@ namespace PierresTreats.Controllers
       return View(thisFlavor);
     }
     
+    // [Authorize]
     public ActionResult Edit(int id)
     {
       var thisFlavor = _db.Flavors.FirstOrDefault(flavor => flavor.FlavorId == id);
@@ -81,6 +82,7 @@ namespace PierresTreats.Controllers
       return RedirectToAction("Index");
     }
 
+    // [Authorize]
     public ActionResult Delete(int id)
     {
       var thisFlavor = _db.Flavors.FirstOrDefault(flavor => flavor.FlavorId == id);
@@ -96,6 +98,7 @@ namespace PierresTreats.Controllers
       return RedirectToAction("Index");
     }
 
+    // [Authorize]
     public ActionResult AddTreat(int id)
     {
       var thisFlavor = _db.Flavors.FirstOrDefault(flavor => flavor.FlavorId == id);
@@ -114,6 +117,7 @@ namespace PierresTreats.Controllers
       return RedirectToAction("Index");
     }
 
+    // [Authorize]
     [HttpPost]
     public ActionResult DeleteTreat(int joinId)
     {
